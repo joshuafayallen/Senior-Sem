@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Pols 4900 Democracy, Dissent, and Revolution # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
+baseurl: 'https://sparksf21-senior-seminar.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
