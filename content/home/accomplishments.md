@@ -1,0 +1,53 @@
+---
+# An instance of the Accomplishments widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: accomplishments
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
+
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Due Dates'
+subtitle:
+
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-10-16"
+  description: "Final Topic Chosen"
+  organization: 
+  organization_url: 
+  title: October 10
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-10-26"
+  description: Project Proposal Due
+  organization: 
+  organization_url: 
+  title: October 26
+  url: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-11-17"
+  description: "Presentation Draft Due"
+  organization: 
+  organization_url: 
+  title: 'November 17'
+  url: ""
+
+design:
+  columns: '2' 
+---
